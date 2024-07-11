@@ -69,6 +69,70 @@ font-size:32px;
  .learn-button{
 width: 171px;
 font-size: 20px;
-
-
  } 
+ /* second section div */
+.two-sec-div{
+text-align: center;
+padding: 5;
+margin: 50px 80px 50px 80px;
+}
+
+.twos-div{
+    margin-bottom: 50px;
+    gap: 24;
+
+
+}
+
+.iform-div{
+    padding: 10px;
+
+}
+.div-logo{
+    display: flex;
+justify-content: space-around;
+}
+    
+.l-more{
+color: #0D1321;
+font-size: 16px;
+font-weight: bold;
+}
+
+/* footer div */
+
+.div-footer{
+ background-image: url('../assets/handshake.jpg');   
+ text-align: center;
+ padding: 80px 97px 80px 97px;
+ margin: 40px 40px 40px 40px;
+ margin-bottom: 200px;
+ 
+ background-size: cover;
+ background-repeat: no-repeat;
+
+
+
+}
+
+
+.f-d-1ul{
+    color: #FFFFFF;
+
+   }
+ .submit{
+    display: flex;
+ }
+ /* last footer div */
+ .last-div{
+   justify-content: space-between;
+    padding:80px 97px 80px 97px;
+    margin: 50px 80px 50px 80px;
+    display: flex;
+    
+
+ }
+ #font {
+   font-weight: bold;
+   font-size:27px;
+ }
