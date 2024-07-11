@@ -1,0 +1,74 @@
+
+header{
+   text-align: center; 
+   background-image: url('../assets/Hero-bg.png');
+   padding: 50px;
+   margin: 0px;
+   font-size: large;
+}
+
+header div button{
+    background-color:#0D1321 ;
+    color: #FFFFFF;
+    width: 150px;
+    height: 100;
+    padding: 10px;
+
+}
+.F-title{
+width: 998;
+color: #0D1321;
+}
+
+ header div h3{
+font-size: 64px;
+color: #0D1321;}
+
+
+.pharagraph {
+    font-size: 17px;
+    color:#0D1321;
+    padding: 24;
+}
+.f-m-div{
+    text-align: center;
+}
+
+/* font style */
+.font-style{
+color: #0D1321;
+font-weight: 800;
+font-size:32px;
+}
+
+.section{
+    padding:80px 97px 80px 97px;
+    margin: 50px 80px 50px 80px;
+}
+/* learn-div */
+.learn-div{
+    display: flex;
+    justify-content:space-between;
+    padding: 48px 48px 48px 48px;
+}
+/* sub-learn-div */
+.sub-learn-div{
+    padding:auto;
+    width: 477;
+}
+ /* H-S-L-Div */
+ .H-S-L-Div{
+    font-size:24px;
+    font-size:800;
+    font-weight: 390;
+    color:#0D1321 ;
+
+ }
+
+ /* learn-button */
+ .learn-button{
+width: 171px;
+font-size: 20px;
+
+
+ } 
